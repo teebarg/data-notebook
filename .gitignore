@@ -1,0 +1,16 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Temporary files
+*.pyc
+*.swp
+
+# Exported notebooks
+*.html
+
+# Environment files
+.env
+.venv
+env/
+venv/

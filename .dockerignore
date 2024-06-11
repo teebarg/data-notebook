@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Exported notebooks
+*.html
+
+# Data files (optional)
+data/
